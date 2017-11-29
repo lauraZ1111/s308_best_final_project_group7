@@ -203,3 +203,6 @@ J:\Group07\Group07\Group7\Hotel Reservations\obj\Debug\RMConfirmation.baml
 J:\Group07\Group07\Group7\Hotel Reservations\obj\Debug\Hotel Reservations.g.resources
 J:\Group07\Group07\Group7\Hotel Reservations\obj\Debug\Hotel_Reservations.Properties.Resources.resources
 J:\Group07\Group07\Group7\Hotel Reservations\obj\Debug\Hotel Reservations.csproj.GenerateResource.Cache
+J:\s308_final_g7\Hotel Reservations\bin\Debug\Hotel Reservations.exe.config
+J:\s308_final_g7\Hotel Reservations\obj\Debug\Hotel Reservations.exe
+J:\s308_final_g7\Hotel Reservations\obj\Debug\Hotel Reservations.pdb

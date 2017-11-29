@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-J:\Group07\Group07\Group7\Hotel Reservations\obj\Debug\
+J:\s308_final_g7\Hotel Reservations\obj\Debug\
 Hotel_Reservations
 none
 false
 DEBUG;TRACE
-J:\Group07\Group07\Group7\Hotel Reservations\App.xaml
+J:\s308_final_g7\Hotel Reservations\App.xaml
 7972153602
 
-161133554917
+16-322400693
 13738642453
 MainWindow.xaml;NewReservation.xaml;PaymentInfo.xaml;PIConfirmation.xaml;ReservationsReport.xaml;RoomManagement.xaml;RMConfirmation.xaml;
 
